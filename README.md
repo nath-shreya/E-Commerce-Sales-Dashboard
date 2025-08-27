@@ -40,4 +40,4 @@ This dashboard helps you track sales, quantity, and profit. It provides a clear 
 
 🖼️Screenshot 
 
-(https://github.com/nath-shreya/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
+[Dashboard Preview](https://github.com/nath-shreya/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
