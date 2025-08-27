@@ -9,6 +9,7 @@ It provides insights into sales, quantity, profit, and customer behavior across 
 
 This dashboard helps you track sales, quantity, and profit. It provides a clear view of how the business performs in different states, with various customers, and across product categories. It shows the top sub-categories and the most popular payment methods, making it easy to identify what generates the most revenue. The dashboard also monitors monthly profit trends and seasonal changes, offering insights into growth patterns over time. Additionally, it displays key performance indicators like total sales, total quantity, total profit, and average order value in a straightforward format.
 
+
 🛠️Tools and technologies used 
 
 ▪️Power BI : Used to build the interactive dashboard and bring all sales insights together in one place.
@@ -27,6 +28,7 @@ This dashboard helps you track sales, quantity, and profit. It provides a clear 
 ▪️Data Cleaning & Transformation (Power Query) : Processed raw sales data to remove inconsistencies and prepare it for visualization.
 
 
+
 🔍Key Insights
 
 - Clothing is the leading category, contributing the majority of total sales.
@@ -35,6 +37,7 @@ This dashboard helps you track sales, quantity, and profit. It provides a clear 
 - Profitability and seasonal changes fluctuate by state and quarter. The dashboard is designed with slicers so users can interactively explore these variations and identify region-specific patterns.
 
 
+
 🖼️Screenshot 
 
-[Dashboard Preview]()
+[Dashboard Preview](https://github.com/nath-shreya/E-Commerce-Sales-Dashboard/blob/main/E-Commerce%20Sales%20Dashboard.png)
